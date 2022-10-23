@@ -142,6 +142,33 @@ $ python3 main.py -f words.csv -e
 ## Scoring
 Correct answers increment score by 10. Incorrect answers decrement score by 5. The score is capped at 0. The score is displayed at the end of the game.
 
+## Responses
+The script will respond to the user's correct input with a random response from the `responses.py` file. The script will respond to the user's incorrect input with a random response from the `responses.py` file.
+
+1. Correct Responses
+- Correct! One more...
+- Fabuolous! Let's have another.
+- That's amazing! Let's continue.
+- Keep it up that way!
+- You're doing great.
+- That is insane. You are amazing.
+- Superb. Keep going!
+- You are on your way, man!
+- You are making us proud, buddy.
+- Hey, have one more on your way.
+- You are so good at this.
+- Let's have some more!
+- Can you do more? Definetly!
+
+2. Incorrect Responses
+- Let's try again, shall we?
+- I bet you can do it this time.
+- That is not quite right.
+- Maybe you can do it this time?
+- Hey, don't feel down. Try again.
+- You should have another guess at this.
+- I am sorry, but this is incorrect. Shall we try one more time?
+
 ## Challenges with Unicode
 The script assumes `utf-8` encoding for the use of umlauts. However, provided CSV files designate umlauts with an extra `e` next to the regular version of the character. Similarly, Eszett is `ss`.
 
