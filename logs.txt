@@ -1,0 +1,7 @@
+Words learned: 0
+Total attempts made: 2
+Score: 0
+Accuracy: 0.00%
+
+Mistakes:
+410,die,jugendherberge,jugendherbergen,youth hostel,wohnung

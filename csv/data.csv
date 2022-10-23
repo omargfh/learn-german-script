@@ -1,0 +1,714 @@
+artikel,wort,plural,uebersetzung,kategorie,sekundaer_kategorie,alt
+der,abend,abende,night,zeit
+der,angestellte,angestellten,employee,arbeit
+der,anzug,anzuege,suit,kleider
+der,apfel,aepfel,apple,essen,obst
+der,architekt,architekten,architecht(f.),arbeit,arbeitsplaetze
+der,ausflug,ausfluege,trip
+der,ausweis,ausweise,personal id
+der,automat,automaten,machine
+der,badeanzug,badeanzuege,swimsuit,kleider
+der,becher,-,cup,kuechev
+der,berg,berge,mountain,natur
+der,breif,breife,letter,schreibwaren
+der,blumenladen,blumenlaeden,flowershop,setzt
+der,beruf,berufe,work,arbeit
+der,bruder,brueder,brother,familie
+der,buchstabe,buchstaben,letter
+der,cent,cents,cent,geld
+der,euro,euros,euro,geld
+der,computer,-,computer,technologie
+der,dom,dome,cathedral
+der,erdapfel,erdaepfel,potatoes,essen,gemuese
+der,exportkaufmann,exportkaufleute,export merchant,arbeit,arbeitsplaetze
+der,film,filme,movie,,,film
+der,fisch,fische,fish,essen
+der,flur,flure,corridor,haus
+der,freund,freunde,friend
+der,fruehling,fruehlinge,spring,zeit,jahreszeit
+der,geburtstag,geburtstage,birthday,zeit
+der,grossvater,grossvaeter,grandfather,familie
+der,opa,opas,grandfather,familie
+der,herbst,herbste,autumn,zeit,jahreszeit
+der,sommer,-,summer,zeit,jahreszeit
+der,winter,-,winter,zeit,jahreszeit
+der,herd,herde,stove,kueche
+der,herr,herren,mister
+der,hotelfachmann,hotelfachleute,hotel employee,arbeit,arbeitsplaetze
+der,hund,hunde,dog,tier
+der,job,jobs,job,arbeit
+der,jogginganzug,jogginganzuege,jogging suit,kleider
+der,junge,jungen,boy,personen
+der,karneval,karnevale,carnival,setzt,fest
+der,kindergarten,kindergaerten,kindergarten,setzt
+der,garten,gaerten,garden,setzt
+der,korb,koerbe,basket,haus
+der,kuchen,-,cake,essen
+der,kuehlschrank,kuehlschraenke,fridge,kueche,,refrigirator
+der,kunde,kunden,customer,personen,,client
+der,lehrer,-,teacher,personen
+der,lieblingssport,/,favorite sport
+der,markt,maerkte,market,setzt
+der,morgen,-,morning,zeit
+der,nachmittag,nachmittage,afternoon,zeit
+der,name,namen,name
+der,onkel,-,uncle,familie
+der,papagei,papageien,parrot,tier
+der,park,parks,park,setzt
+der,pass,paesse,passport
+der,preis,preise,price
+der,programmierer,-,programmer,arbeit,arbeitsplaetze
+der,rucksack,rucksaecke,backpack,schreibwaren
+der,salat,salate,salad,essen
+der,schrank,schraenke,closet,haus
+der,see,seen,lake,setzt,natur
+der,skianzug,skianzuege,skiing suit,kleider
+der,sohn,soehne,son,familie
+der,spass,spaesse,fun
+der,sport,/,sport,aktivitaet
+der,sprachunterricht,sprachunterrichte,language class,schule
+der,sprachurlaub,sprachurlaube,language trip,schule
+der,stadtplan,stadtplaene,city map,schreibwaren
+der,stift,stifte,pen,schreibwaren
+der,stock,stockwerke,floor,haus
+der,student,studenten,student,schule
+der,schueler,studenten,student,schule
+der,supermarket,supermaerkete,supermarket,setzt
+der,tierarzt,tieraerzte,vet,arbeit,arbeitsplaetze
+der,tisch,tische,table,kueche
+der,tourist,touristen,tourist,personen
+der,turm,tuerme,tower,setzt
+der,unterricht,unterrichte,class,schule
+der,vater,vaeter,father,familie
+der,verkaeufer,-,merchnat,arbeit,arbeitsplaetze
+der,vormittag,vormittage,before noon,zeit
+der,vorname,vornamen,first name
+der,weg,wege,road,setzt
+der,zucker,/,sugar,essen
+der,basketball,basketbaelle,basketball,aktivitaet
+der,fussball,fussbaelle,football,aktivitaet
+der,tag,tage,day,zeit
+der,montag,montags,monday,zeit,wochenzeit
+der,dienstag,dienstags,tuesday,zeit,wochenzeit
+der,mittwoch,mittwochs,wednesday,zeit,wochenzeit
+der,donnerstag,donnerstags,thursday,zeit,wochenzeit
+der,freitag,freitags,friday,zeit,wochenzeit
+der,samstag,samstags,saturday,zeit,wochenzeit
+der,sonnentag,sonnentags,sunday,zeit,wochenzeit
+der,sonnabend,sonnabends,saturday,zeit,wochenzeit
+der,joghurt,joghurts,yoghurt,essen
+der,kaese,-,cheese,essen
+der,kaffee,kaffees,coffee,essen,trinken
+der,tee,tees,tea,essen,trinken
+der,monat,monate,month,zeit,monate
+der,januar,/,january,zeit,monate
+der,februar,/,february,zeit,monate
+der,marz,/,march,zeit,monate
+der,april,/,april,zeit,monate
+der,mai,/,may,zeit,monate
+der,juni,/,june,zeit,monate
+der,juli,/,july,zeit,monate
+der,august,/,august,zeit,monate
+der,september,/,september,zeit,monate
+der,oktober,/,october,zeit,monate
+der,november,/,november,zeit,monate
+der,dezember,/,december,zeit,monate
+der,pullover,pullovern,sweater,kleider
+der,ring,ringe,ring,kleider
+der,schirm,schirme,umbrella,kleider
+der,comic,comics,comic,schreibwaren
+der,krimi,krimis,thriller,schreibwaren
+der,workshop,workshops,workshop,setzt
+der,mann,maenner,man,personen
+der,familiename,familienamen,surname
+der,shauspieler,-,actor,arbeit,arbeitsplaetze
+die,shauspielerin,-,actress,arbeit,arbeitsplaetze
+der,saenger,-,singer,arbeit,arbeitsplaetze
+der,tennisspieler,-,tennis player,arbeit,arbeitsplaetze
+der,wonhort,wonhorte,place of residence
+der,bleistift,bleistifte,pencil,schreibwaren
+der,kugelschreiber,kugelschreibern,pen,schreibwaren
+der,radiergummi,radiergummis,eraser,schreibwaren
+der,raum,raeume,room,haus,schule
+der,chor,chores,choir,aktivitaet
+der,kurs,kurse,course,aktivitaet
+der,termin,termine,meeting
+der,wochentag,wochentage,weekday,zeit,wochenzeit
+das,wochenende,wochenenden,weekend,zeit,wochenzeit
+der,kilometer,kilometern,kilometer
+der,kiosk,kioske,kiosk,setzt
+der,moment,momente,moment,zeit
+der,apparat,apparate,apparatus
+der,fotoapparat,fotoapparate,camera,technologie
+der,glueckwunsch,glueckwuensche,congratulations
+der,ipod,ipods,ipod,technologie
+der,muelleimer,-,garbage can,haus
+der,hamburger,-,hamburger,essen
+der,hunger,/,hunger,essen
+der,kakao,-,cocoa,essen,trinken
+der,quark,quarks,mayonnaise,essen
+der,saft,saefte,juice,essen,trinken
+der,laden,laeden,shop,setzt
+der,ohrring,ohrringe,earing,kleider
+das,ohr,ohren,ear,körperteil
+der,schmuck,-,jewelry,kleider
+der,shuh,shuhe,shoe,kleider
+der,arm,armen,poor
+der,arm,waffen,arm,körperteil
+der,arzt,aerzte,doctor,arbeit,arbeitsplaetze
+der,bauch,baeuche,belly,körperteil
+der,dank,danke,thank
+der,dialog,dialoge,dialog
+der,fuss,fuesse,foot,körperteil
+der,finger,-,finger,körperteil
+der,hals,haelse,neck,körperteil
+der,kopf,koepfe,head,körperteil
+der,mund,muender,mouth,körperteil
+der,quatsch,/,nonsense
+der,plan,plaene,plan
+der,koerper,-,body,körperteil
+der,schmerz,schmerzen,pain,krankheit
+die,krankheit,krankheiten,illnness,krankheit
+der,test,tests,test,schule
+der,zahn,zaehne,tooth,körperteil
+das,bein,beine,leg,körperteil
+das,haar,haare,hair,körperteil
+der,stress,*,stress,gefuehl
+der,bahnhof,banhoefe,train station,setzt,transport
+der,bahnsteig,bahnsteige,train platform,setzt,transport
+der,bus,busse,bus,transport
+der,fahrplan,fahrplaene,travel plan
+der,flughafen,flughaefen,airport,setzt,transport
+der,zug,zuege,train,transport
+der,meter,meters,meter
+der,fluss,fluesse,river,setzt,natur
+der,chef,chefs,boss,arbeit,arbeitsplaetze
+der,koch,koeche,chef,arbeit,arbeitsplaetze
+der,guertel,-,belt,kleider,transport
+der,college,*,faculty,universität
+der,kuenstler,-,artist,arbeit,arbeitsplaetze
+der,mantel,maentel,coat,kleider
+der,rock,roecke,skirt,kleider
+der,stiefel,-,boot,kleider
+der,techniker,-,technician,arbeit,arbeitsplaetze
+das,buero,bueros,office,setzt
+der,laptop,laptops,laptop,technologie
+der,strand,straende,beach,natur,setzt
+der,wald,waelder,forest,natur,setzt
+der,regen,-,rain,natur
+das,abendessen,-,dinner,mahlzeiten,essen
+das,angebot,angebote,offer
+das,au-pair-maedchen,-,babysitter,arbeit,arbeitsplaetze
+das,ausland,/,foreign countries,land
+der,auslaender,auslaender,foreigner,personen
+das,auto,autos,car,transport
+das,baby,babys,baby,personen
+das,bad,baeder,bath,haus
+das,bett,betten,bed,haus
+das,bild,bilder,picture,technologie
+das,brot,brote,bread,essen
+das,broetchen,-,bread (small),essen
+das,buecherregal,buecherregale,bookshelf,schreibwaren
+das,spiel,spiele,game,aktivitaet
+das,computerspiel,computerspiele,computer game,aktivitaet
+die,aktivitaet,aktivitaeten,activity,aktivitaet
+das,diktat,diktate,dictation
+das,diplom,diplome,diploma,schule
+das,doppelzimmer,-,room for two,haus
+das,arbeitzimmer,-,work room,haus
+das,einzelzimmer,-,room for one,haus
+das,ei,eier,egg,essen
+das,elektrogeraet,elektrogeraete,electric device,haus
+das,essen,/,food,essen
+das,obst,/,fruits,essen
+das,gemuese,/,vegetables,essen
+das,fahrrad,fahrraeder,bike,transport
+das,rad,raeder,bicycle (starts with R),transport
+das,fax,faxe,fax,schreibwaren
+das,fenster,-,window,haus
+das,fernsehen,/,watching TV,haus
+das,fruehstueck,fruehstueck,breakfast,mahlzeiten
+das,mittagessen,mittagessen,lunch,mahlzeiten
+das,fest,feste,festival,setzt,fest
+das,fitness studio,fitness studios,fitness studio,setzt
+das,fleisch,-,meat,essen
+das,formular,formulare,(fill a) form,schreibwaren
+das,foto,fotos,photo
+das,fussballspiel,fussballspiele,football game,aktivitaet
+das,geld,/,money,geld
+das,getraenk,getraenke,drink,essen,trinken
+das,gepaecke,/,package
+das,geschaeft,geschaefte,market (starts with G),setzt
+das,kaufhaus,kaufhaeuser,department store,setzt
+das,glas,glaeser,glass
+das,glueck,/,luck
+das,gramm,/,gram
+das,haenchen,-,chicken,tier,essen
+das,handy,handys,phone,technologie
+das,haus,haeuser,house,haus
+das,haustier,haustiere,pet,tier,haus
+das,tier,tiere,animal,tier
+das,heimatland,heimatlaender,hometown,setzt,land
+das,land,laender,country,land
+das,hotel,hotels,hotel,setzt
+das,internet,internets,internet,technologie
+das,jahr,jahre,year,zeit
+das,joggingwetter,-,jogging weather,wetter
+das,mistwetter,-,bad weather,wetter
+das,wetter,-,weather,wetter
+das,krankenhaus,krankenhaeuser,hospital,krankheit
+das,kaesebrot,kaesebrote,cheese sandwich,essen
+das,kind,kinder,child,personen
+das,maedchen,-,young girl,personen
+das,kino,kinos,cinema,setzt
+das,theater,-,theatre,setzt
+der,klub,*,club,setzt
+das,konzert,konzerte,concert,aktivitaet
+das,leben,-,life
+das,lebensmittel,-,groceries,essen
+das,lied,lieder,song
+das,marketing,/,marketing,arbeit
+das,meer,meere,sea,natur,setzt
+das,wasser,-,water,essen,trinken
+das,mineralwasser,-,mineral water,essen,trinken
+das,moebel,-,furnitute,haus
+das,oel,oele,oil,essen,trinken
+das,museum,museen,museum,setzt
+das,pfund,pfunde,pound
+das,picknick,picknicks,picnic,aktivitaet
+das,praktikum,praktikumen,practice,aktivitaet
+das,problem,probleme,problem
+das,radio,radios,radio,technologie
+das,restaurant,restaurants,restaurant,setzt
+das,reiszeil,reisziele,destination
+das,rindfleisch,-,beef,essen
+das,salz,salze,salt,essen
+das,schild,schilder,sign
+das,schiff,schiffe,ship,transport
+das,wohnzimmer,-,living room,haus
+das,schlafzimmer,-,sleeping room,haus
+das,schwimmbad,schwimmbaeder,swimming pool,haus
+das,semester,-,semester,schule
+das,sofa,sofas,sofa,haus
+das,sonderangebot,sonderangebote,special offer
+das,sportgeschaeft,sportgeshaefte,sports equipment shop,setzt
+das,stadtzentrum,statzentren,downtown,setzt
+das,studium,studiem,higher education,schule
+das,telefon,telefone,telephone,technologie
+das,telefonspraech,telefonspraeche,telephone conversation
+das,ticket,tickets,ticket
+das,waschbecken,-,sink,haus
+das,wissen,/,science,wissen
+das,wort,woerter,word,wissen
+das,woerterbuch,woerterbuecher,dictionary,wissen
+das,tennis,-,tennis,aktivitaet
+das,deutsch,/,german,sprache
+das,eis,/,ice cream,essen
+das,t-shirt,t-shirts,t-shirt,kleider
+das,aerobic,/,aerobics,aktivitaet
+das,projekt,projekte,project,schule
+das,hobby,hobbys,hobby,aktivitaet
+das,video,videos,video,technologie
+das,interesse,interessen,interest
+das,italien,/,italian,sprache
+das,experiment,experimente,experiment,schule
+das,heft,hefte,notebook,schreibwaren
+das,lineal,lineale,ruler,schreibwaren
+das,quartett,quartette,quartet
+das,cafe,cafes,cafe,setzt
+das,ende,enden,end,zeit
+das,training,/,training,aktivitaet
+das,geschenk,geschenke,gift
+das,geschirr,-,dishes,haus
+das,bistro,bistros,bistro (small restaurant),setzt
+der,eiskaffee,-,iced coffee,essen,trinken
+das,muesli,/,cereal,essen
+das,plakat,plakat,poster
+das,album,alben,album
+das,top,tops,top,kleider
+das,instrument,instrumente,instrument
+das,klavier,klaviere,piano
+das,internat,internate,boarding school,schule
+das,zuhause,/,(the) home,haus
+das,latein,/,latin,sprache
+das,flugzeug,flugzeuge,airplane,transport
+das,gleis,gleise,track,transport
+das,zentrum,zentren,center
+das,taxi,taxis,taxi,transport
+die,tuer,tueren,door,haus
+das,verkerhrsmitteln,/,means of transport,transport
+das,beispiel,beispiele,example,schule
+das,dorf,doerfer,village,setzt
+das,heimweh,/,homesickness,gefuehl
+das,traumland,traumlaender,dreamland,land
+das,weihnachten,/,christmas,zeit
+der,gast,gaeste,geust,personen
+das,hemd,hemden,shirt,kleider
+das,model,modelle,model,arbeit,personen
+das,recht,rechte,right
+das,sprach,sprache,conversation
+die,sprache,sprachen,language,sprache
+die,abfahrt,abfahrten,departure(abf-),transportverben
+die,abreise,abreisen,departure(abr-),transportverben
+die,abteilung,abteilungen,department
+die,adresse,adressen,address
+die,antwort,antworten,answer
+die,anzeige,anzeigen,advertisements
+die,architektin,architektinen,architect,arbeit,arbeitsplaetze
+die,aerztin,aerztinnen,doctor(f.),arbeit,arbeitsplaetze
+die,ausbildung,ausbildungen,apprenticeship,arbeit,arbeitsplaetze
+die,aussprache,/,pronunciation,sprache
+die,badewanne,badewannen,bathtub,haus
+die,banane,bananen,banana,essen
+die,birne,birnen,pear,essen
+die,blume,blumen,flower,natur
+die,schokolade,schokoladen,chocolate,essen
+die,kartoffel,kartoffelen,potatoes(f.),essen
+die,traube,trauben,grapes,essen
+die,sahne,*,cream,essen
+die,soppe,soppen,soup,essen,trinken
+die,sosse,sossen,sauce,essen,trinken
+die,pizza,pizzas,pizza,essen
+die,gurke,gurken,cucumber,essen
+die,kasse,kassen,case
+die,milsch,-,milk,essen,trinken
+die,cola,colas,soda,essen,trinken
+die,butter,/,butter,essen
+die,dame,damen,lady,personen
+die,frau,frauen,miss,personen
+die,freundin,freundinen,friend(f.),personen
+die,dauer,-,period,zeit
+die,disco,discos,disco,setzt
+die,e-mail,e-mails,e-mail,technologie
+die,einladung,einladungen,invitation
+die,eltern,/,parents,familie
+die,ermaessigung,ermaessigungen,discount,geld
+die,fahrkarte,fahrkarten,boarding ticket,transport
+die,feier,feiern,celebration(f.),zeit
+die,freienwohnung,freienwohnungen,vacation home,setzt,haus
+die,fernsehsendung,fernsehsendungen,TV Show,technologie
+die,firma,firmaen,corporation
+die,flasche,flaschen,bottle
+die,flugbegleiterin,flugbegleiterinnen,hostess,arbeit,arbeitsplaetze
+die,frage,fragen,question
+die,freizeit,freizeiten,free time,zeit
+die,fremdsprache,fremdsprachen,foreing language,sprache
+die,freude,-,happiness,gefuehl
+die,firkadelle,firkadellen,kofta,essen
+die,friseurin,friseurinnen,hairstylist(f.),arbeit,arbeitsplaetze
+die,gastfamilie,gastfamilien,host family,familie
+die,germanistik,/,german studies,wissen
+die,informatik,/,information science,wissen
+die,information,informationen,information
+die,paedagogik,/,pedagogy,wissen
+die,gitarre,gitarren,guitar
+die,geschwister,/,siblings,familie
+die,grammatik,grammatiken,grammar,wissen
+die,halbpension,halbpensionen,half board,wohnung
+die,vollpension,vollpensionen,full board,wohnung
+die,wohnung,wohnungen,apartment,wohnung
+die,miete,mieten,rent,wohnung
+die,monatsmiete,monatsmieten,monthly rent,wohnung
+die,jugendherberge,jugendherbergen,youth hostel,wohnung
+die,wohngemeinschaft,wohngemeinschaften,shared apartment,wohnung
+die,gruppenarbeit,gruppenarbeiten,group work,arbeit
+die,partnerarbeit,partnerarbeiten,duo work,arbeit
+die,grosseltern,/,grandparents,familie
+die,grossmutter,grosmuetter,grandmother,familie
+die,oma,omas,grandma,familie
+die,hauptstadt,hauptstaedte,capital,setzt
+die,herkunft,*,origin
+die,hausaufgabe,hausaufgaben,homework
+die,hilfe,hilfen,help
+die,hochzeit,hochzeiten,wedding,zeit
+die,hotelfachfrau,hotelfachfrauen,hotel employee(f.),arbeit,arbeitsplaetze
+die,idee,ideen,idea
+die,jahreszeit,jahreszeiten,season,zeit
+die,joggingshuhe,/,jogging shoe,kleider
+die,kleider,/,clothes,kleider
+die,journalistin,journalistnnen,journalist,arbeit,arbeitsplaetze
+die,karte,karten,ticket
+die,kauffrau,kaufleute,merchant(f.),arbeit,arbeitsplaetze
+die,kiwi,kiwis,kiwi,essen
+die,kenntnisse,/,knowledge,wissen
+die,klasse,klassen,class(f.),schule
+die,schule,schulen,school,schule
+die,stunde,stundent,class hour(f.),schule
+die,kollegin,kolleginnen,colleauge(f.),personen
+die,kueche,kuechen,kitchen,kueche,haus
+die,lampe,lampen,lamp,haus
+die,lehrerin,lehrerinnen,teacher(f.),arbeit,arbeitsplaetze
+die,leidenschaft,leidenschaften,passion,gefuehl
+die,leute,/,people,personen
+die,medizin,medizinen,medicine,wissen
+die,mitte,mitten,middle
+die,musik,*,music
+die,mutter,muetter,mother,familie
+die,nachtricht,nachtrichten,news
+die,nacht,naechte,night,zeit
+die,nebenkosten,*,additional costs,geld
+die,nummer,nummern,number
+die,telefonnummer,telfonnummern,telephone number
+die,tante,tanten,aunt,familie
+die,oeffnungzeit,oeffnungzeiten,opening hours,zeit
+die,orange,orangen,orange,essen
+die,packung,packungen,pack
+die,party,partys,party,aktivitaet
+die,pause,pausen,recess,aktivitaet
+die,person,personen,person,personen
+die,pommes,/,french fries,essen
+die,praktikanten,praktikantennen,practicer(f.),personen
+die,praxis,praxen,clinic,krankheit,setzt
+die,regenkleidung,regenkleidungen,raining clothes,kleider
+die,tour,touren,tour
+die,reise,reisen,travel
+die,rezeption,rezeptionen,reception
+die,shuhe,/,shoes,kleider
+die,schwester,schwestern,sister,familie
+die,sehenswuerdigkeit,sehenswuerdigkeiten,sightseeing,aktivitaet
+die,sms,smss,sms,technologie
+die,spaghetti,/,spaghetti,essen
+die,spiesekarte,spiesekarten,food menu,essen
+die,sporttasche,sporttaschen,sportsbag
+die,stadt,staedte,city,setzt
+die,stadtfuehrung,stadtfuehrungen,city tour,aktivitaet
+die,stadtrundfahrt,stadtrundfahrten,city tour(r-f),aktivitaet
+die,strasse,strassen,street,setzt
+die,stelle,stellen,job(f.),arbeit
+die,tageszeit,tageszeiten,times of day,zeit
+die,temperatur,temperaturen,temperature,krankheit
+die,tieraerztin,tieraerztinnen,vet(f.),arbeit,arbeitsplaetze
+die,tochter,toechter,daughter,familie
+die,toilette,toiletten,toilette,haus
+die,tomate,tomaten,tomato,essen
+die,tomatensosse,tomatensossen,tomato sauce,essen
+die,trekkingshuhe,/,trekking shoes,kleider
+die,u-bahn,u-bahnen,the underground,transport
+die,uebernachtung,uebernachtungen,overnight stay,wohnung
+die,uhr,uhren,hour,zeit
+die,uebung,uebungen,exercise
+die,uhrzeit,uhrzeiten,time,zeit
+die,universitaet,universitaten,university,schule
+die,verkaeuferin,verkaeuferinnen,merchant(f.-ver)
+die,vorliebe,vorlieben,preference
+die,welt,welten,world
+die,wirtschaft,wirtschaften,economics,wissen
+die,woche,wochen,week,zeit
+die,zeitung,zeitungen,newspaper
+die,zeitschrift,zeitschriften,magazine
+die,zigarette,zigaretten,cigar,essen
+die,wurst,wurste,sausage,essen
+die,zahl,zahlen,count
+die,biologie,/,biology,wissen
+die,chemie,/,chemistry,wissen
+die,englisch,/,english,sprache
+die,ethik,/,ethics,wissen
+die,geografie,/,geography,wissen
+die,geschichte,/,history,wissen
+die,naturwissenschaften,/,natural sciences,wissen
+die,kunst,/,drawing,wissen
+die,physik,/,physics,wissen
+die,religion,/,religion,wissen
+die,sozialkunde,/,social studies,wissen
+die,salami,salamis,salami,essen
+die,bluse,blusen,blouse,kleider
+die,hose,hosen,pants,kleider
+die,CD,CDs,CD,technologie
+die,DVD,DVDs,DVD,technologie
+die,halle,hallen,hall,haus
+die,bibliothek,bibliotheken,library,setzt
+die,schere,scheren,scissors,schreibwaren
+die,band,bands,band
+die,lust,-,lust,gefuehl
+die,show,shows,show
+die,ahnung,/,idea
+die,boxershorts,/,boxershorts,kleider
+die,chips,/,chips,essen
+die,marmelade,marmeladen,jam,essen
+die,tasse,tassen,mug,kueche
+die,pizzeria,pizzerien,pizzeria,setzt
+die,jugendlichen,/,youth,personen
+die,boutique,boutiquen,boutique,setzt
+die,farbe,farben,color,schreibwaren
+der,farbestift,farbestifte,coloring pen,schreibwaren
+die,kette,ketten,necklace,kleider
+die,entschuldigung,entschuldigungen,apology
+die,minute,minuten,minute,zeit
+die,sekunde,sekunden,second,zeit
+die,sache,sachen,thing
+die,klamotten,/,clothes(k-),kleider
+die,angst,aengsten,fear,gefuehl
+die,diaet,diaeten,diet,essen
+die,eins,einsen,one
+die,frucht,fruechten,fruit,essen
+die,hand,haenden,hand,körperteil
+die,nase,nasen,nose,körperteil
+die,pruefung,pruefungen,test(f.)
+die,ruhe,/,rest
+die,terrasse,terrassen,terrace,haus
+die,note,noten,note
+die,ordnung,ordnungen,order
+die,puenktlichkeit,/,punctuality
+die,vokabel,vokabeln,vocab,wissen
+die,apotheke,apotheken,pharmacy,krankheit
+die,bank,banken,bank,setzt
+die,haltstelle,haltstellen,halt
+die,insel,inseln,island,setzt
+die,linie,linien,line
+die,mauer,mauern,wall
+die,post,posten,post office
+die,richtung,richtungen,direction
+die,s-bahn,s-bahnen,suburban train,transport
+die,heimat,/,homeland
+die,erzieherin,erzieherinnen,educator,arbeit,arbeitsplaetze
+die,fabrik,fabriken,factory,setzt
+die,praxis,praxen,surgery,krankheit
+die,sekretaerin,sekretaerinnnen,secretary,arbeit,arbeitsplaetze
+die,brille,/,brayille's method,wissen
+der,absender,-,sender,sprache
+der,anruf,anruefe,call,sprache
+der,empfaenger,-,recipient,sprache
+der,frisoer,frisoere,hair stylist,arbiet,arbeitsplaetze
+der,rat,raete,advice
+der,abflug,abfluege,take off,transport
+der,anschluss,anschluesse,connection,transport
+der,ausgang,ausgaenge,exit,transport
+der,eingang,eingaenge,entrance,transprt
+der,baum,baeume,tree,natur
+der,buchladen,buchlaeden,bookstore,setzt
+der,fahrkartenautomat,fahrkartenautomaten,ticket machine,trasnport
+der,fernseher,-,television,haus
+der,fremde,fremden,foreigner,personen
+der,imbiss,imbisse,fast food restaurant,setzt
+der,jugendliche,jugendlichen,young man,personen
+der,LKW,LKWs,truck,transport
+der,schalter,-,ticket counter
+der,drucker,-,printer,technologie
+der,fahrradstaender,-,bicycle stand,setzt
+der,feiertag,feiertage,holiday
+der,flug,fluege,flight,transport
+der,fuehrerschein,fuehrerscheine,driver license,transport
+der,ober,-,waiter,arbeitsplaetze,personen
+der,optiker,-,optician,arbeitsplaetze,personen
+der,rueckruf,rueckruefe,call again,sprache
+der,service,services,customer service,sprache
+der,spaziergang,spaziergaenge,a walk
+der,verleih,verleihe,renting
+der,wohnraum,wohnraeume,neighborhood,setzt
+der,ehemann,ehemanner,husband,personen
+der,koffer,-,suitcase,transport
+der,kundendienst,kundendienste,customer service(k-)
+der,notfall,notfalle,emergency
+der,weltrekord,weltrekorde,world record
+der,bekannte,bekannten,acquaintance,personen
+der,bescheid,bescheide,decision
+der,grund,gruende,reason
+der,kalendar,-,calendar
+der,rahmen,-,frame
+der,wunsch,wuensche,wish
+das,befinden,-,location
+das,datum,daten,date
+das,gespraech,gespraeche,conversation
+das,gesundheitsproblem,gesundheitsprobleme,health problem,krankenhaus
+das,medikament,medikamente,medicine,krankenhaus
+das,reiten,/,riding a horse,aktivitaet
+das,rezept,rezepte,reciept,krankenhaus
+das,wartezimmer,-,waiting room,krankenhaus
+das,monster,/,monster
+das,lachen,/,laughing
+das,fieber,/,fever,krankenhaus
+das,menue,menues,menu
+das,institut,institute,institute,setzt
+das,verkehrsmittel,verkehrsmitteln,means of transportation,transport
+das,display,displays,display
+das,feuer,-,fire
+das,licht,lichter,light
+das,modell,modelle,model
+das,opernhaus,opernhaeuser,opera house,setzt
+das,papier,papiere,paper,schreibwaren
+das,verkehrsschild,verkehrsschilder,traffic signs,transport
+das,abendkleid,abdenkleider,night gown,kleider
+das,accessorie,accessories,accessorie,kleider
+das,camping,/,camping,aktivitaet
+das,erdgeschoss,erdgeschosse,ground floor,setzt
+das,obergeschoss,obergeschosse,top floor,setzt
+das,untergeschoss,untergeschoss,bottom floor,setzt
+das,feuerzeug,feuerzeuge,lighter
+das,fundbuero,fundbeuros,lost and found office,setzt
+das,guiness buch der rekorde,/,guiness book of world records
+das,feuerwerk,feuerwerke,fireworks
+das,ostern,-,easter,zeit
+das,silvester,-,new year eve,zeit
+das,zertifikat,zertifikate,certificate
+die,anfrage,anfragen,inquiry
+die,anmeldung,anmeldungen,registration
+die,anrede,anreden,salutation
+die,empfehlung,empfehlung,advice(f.)
+die,entspannung,entspannungen,relaxation
+die,lichttherapie,lichttherapien,laugh therapy,krakenhaus
+die,massage,massagen,massage,aktivitaet
+die,masseurin,masseurinnen,masseur(f.),arbeitsplaetze
+die,postleitzahl,postleitzahlen,postal code
+die,reittherapie,reittherapie,horse-riding therapy,krankenhause
+die,rolle,rollen,role
+die,sauna,saunaen,sauna,setzt
+die,schlafstoerung,schlafstoerungen,insomnia,krankenhaus
+die,tablette,tabletten,tablet,krankenhaus
+die,vereinbarung,vereinbarungen,agreement
+die,verspaetung,/,delay,zeit
+die,achtung,achtungen,attention
+die,ampel,ampeln,traffic sign,transport
+die,ankunft,ankuenfte,arrival,transport
+die,auskunft,auskuenfte,inquiry(aus-)
+die,bushaltstelle,bushaltstellen,bus stop,transport
+die,autobahn,autobahnen,highway,transport
+die,baeckerei,baeckereien,backery,setzt
+die,durchsage,durchsagen,announcement
+die,ecke,ecken,corner
+die,naehe,/,closeness
+die,polizei,/,police
+die,seite,seiten,paper/side,schreibwaren
+die,treppe,treppen,staircase
+die,ansage,ansagen,voicenote
+die,autovermeitung,autovermeitungen,car rental service
+die,bahn,bahnen,railway station,transport
+die,briefmarke,briefmarken,stamp,schreibwaren
+die,buchung,buchungen,booking
+die,bitte,bitten,please
+die,gebrauchsanweisung,gebrauchsanweisungen,instructions for use
+die,gruppe,gruppen,group
+die,heizung,heizungen,heater,haus
+die,kreuzung,kreuzungen,intersection
+die,fuehrung,fuehrungen,trip(f-r)
+die,oper,opern,opera(f.),setzt
+die,optik,optiken,optik store,setzt
+die,rechnung,rechnungen,reciept(f.)
+die,reparatur,reparaturen,repairing
+die,sonnenbrille,sonnenbrillen,sunglasses,kleider
+die,baby waesche,/,baby clothes,kleider
+die,krawatte,krawatten,tie(clothes),kleider
+die,kosmetik,/,make up,kleider
+die,drogerie,drogerien,make up store,setzt
+die,jeans,/,jeans,kleider
+die,brieftasche,brieftaschen,briefcase,schreibwaren
+die,damenkleidung,/,women clothes,kleider
+die,kinderkleidung,/,kinder clother,kleider
+die,herrenkleidung,/,men clothes,kleider
+die,designer mode,/,designer clothes,kleider
+die,ehefrau,ehefrauen,wife,personen
+die,friseur,friseuren,hair style
+die,geige,geigen,violin,instrument
+die,groesse,groessen,size,kleider
+die,landschaft,landschaften,nature,natur
+die,meinung,meinungen,opinion
+die,ordung,ordungen,order
+die,mode boutique,mode botiquen,clothes store,setzt
+die,mode,moden,fashion,kleider
+die,modenschau,modenschauen,fashion show
+die,mutti,muttis,mother,familie
+die,absage,absagen,refuse to
+die,zusage,zusagen,agree to
+die,bekannte,bekannten,acquaintance(f.),personen
+die,kirche,kirchen,church,setzt
+die,liste,listen,list
+die,ueberraschung,ueberraschungen,surprise

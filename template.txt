@@ -1,0 +1,7 @@
+Words learned: {{learned}}
+Total attempts made: {{attempts}}
+Score: {{score}}
+Accuracy: {{accuracy}}
+
+Mistakes:
+{{mistakes}}
